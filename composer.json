@@ -1,0 +1,17 @@
+{
+    "name": "huicurry\/huijunit",
+    "description": "this is a test junit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangyonghui",
+            "email": "2433472340@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Huicurry\\Huijunit\\": "src"
+        }
+    }
+}
