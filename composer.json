@@ -13,5 +13,12 @@
         "psr-4": {
             "Huicurry\\Huijunit\\": "src"
         }
+    },
+    "extra":{
+        "laravel":{
+            "providers":[
+                "Huicurry\\Huijunit\\JunitServiceProvider"
+            ]
+        }
     }
 }
